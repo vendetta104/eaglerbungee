@@ -19,7 +19,7 @@ online_mode: false
 servers:
   lobby:
     motd: '&1Just another BungeeCord - Forced Host'
-    address: IP_GOES_HERE
+    address: 7Fsmpandserver.aternos.me:63982
     restricted: false
 listeners:
 - query_port: 25577
